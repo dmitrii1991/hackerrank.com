@@ -20,4 +20,4 @@ def work(string):
         return bracket[-1][1] + 1
     return 'Success'
     
-print(work(string)
+print(work(string))
